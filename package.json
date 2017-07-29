@@ -1,6 +1,6 @@
 {
   "name": "parsedate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Converts a value to a Date",
   "main": "index.js",
   "author": "qingwei-li<cinwell.li@gmail.com> (https://cinwell.com)",
@@ -9,7 +9,11 @@
     "test": "jest"
   },
   "repository": "qingwei-li/parsedate",
-  "keywords": ["date", "string", "parse"],
+  "keywords": [
+    "date",
+    "string",
+    "parse"
+  ],
   "license": "MIT",
   "devDependencies": {
     "jest": "^20.0.4",
