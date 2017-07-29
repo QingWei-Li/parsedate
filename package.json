@@ -1,17 +1,14 @@
 {
   "name": "parsedate",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Converts a value to a Date",
   "main": "index.js",
   "author": "qingwei-li<cinwell.li@gmail.com> (https://cinwell.com)",
   "scripts": {
     "lint": "prettier *.js --write",
-    "test": "jest"
+    "test": "npm run lint && jest"
   },
-  "repository": {
-    "url": "qingwei-li/parsedate",
-    "type": "git"
-  },
+  "repository": "qingwei-li/parsedate",
   "keywords": ["date", "string", "parse"],
   "license": "MIT",
   "devDependencies": {
