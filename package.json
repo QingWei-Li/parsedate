@@ -6,7 +6,7 @@
   "author": "qingwei-li<cinwell.li@gmail.com> (https://cinwell.com)",
   "scripts": {
     "lint": "prettier *.js --write",
-    "test": "npm run lint && jest"
+    "test": "jest"
   },
   "repository": "qingwei-li/parsedate",
   "keywords": ["date", "string", "parse"],
